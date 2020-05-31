@@ -5,7 +5,6 @@ monkey.patch_all()
 from gevent.pool import Pool
 import gevent
 import requests
-# import urlparse
 from urllib.parse import urljoin
 import os
 import time
